@@ -1,0 +1,5 @@
+Throwing Tables is the product of boredom and the infamous emoji.
+
+Craft your throwing tables with 25 tables and 1 copper/tin ore.
+
+Made with Emacs.

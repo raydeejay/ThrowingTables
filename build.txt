@@ -1,0 +1,6 @@
+author = raydeejay
+version = 0.1.2
+displayName = Throwing Tables
+hideCode = false
+hideResources = false
+includeSource = true

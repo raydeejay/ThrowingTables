@@ -1,0 +1,9 @@
+0.1
+Initial version
+
+0.1.1
+Fixed the display name
+Reduced Throwing Tables damage from 37 to 20
+
+0.1.2
+Includes source
